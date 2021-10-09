@@ -1,0 +1,415 @@
+Lipid ID	Lipid name	GO ID	GO term	Taxon ID	Taxon scientific name	Evidence tag ID
+SLM:000000044	(25S)-Delta7-dafachronate	GO:0061067	negative regulation of dauer larval development	6239	Caenorhabditis elegans	3059
+SLM:000000326	ergosterol	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	5710
+SLM:000000336	1,2-diacyl-sn-glycero-3-phospho-L-serine	GO:0009898	internal side of plasma membrane	10090	Mus musculus	4309
+SLM:000000413	Ceramide (d18:1(4E))	GO:0005794	Golgi apparatus	9606	Homo sapiens	12752
+SLM:000000438	sphingosine 1-phosphate	GO:0061351	neural precursor cell proliferation	10116	Rattus norvegicus	6431
+SLM:000000655	1-(9Z-octadecenoyl)-sn-glycero-3-phospho-L-serine	GO:0002553	histamine secretion by mast cell	10116	Rattus norvegicus	6163
+SLM:000001006	2-(9Z-octadecenoyl)-sn-glycero-3-phospho-L-serine	GO:0002553	histamine secretion by mast cell	10116	Rattus norvegicus	6161
+SLM:000055318	Lysophosphatidylcholine (16:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7113 | 7191
+SLM:000055318	Lysophosphatidylcholine (16:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8168
+SLM:000055318	Lysophosphatidylcholine (16:0)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7192
+SLM:000055319	Lysophosphatidylcholine (16:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7548
+SLM:000055322	Lysophosphatidylcholine (18:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7114 | 7193
+SLM:000055322	Lysophosphatidylcholine (18:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7194 | 7492
+SLM:000055322	Lysophosphatidylcholine (18:0)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7195
+SLM:000055323	Lysophosphatidylcholine (18:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7196 | 7487
+SLM:000055323	Lysophosphatidylcholine (18:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7197
+SLM:000055323	Lysophosphatidylcholine (18:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7198 | 10777
+SLM:000055324	Lysophosphatidylcholine (18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7199 | 7516
+SLM:000055324	Lysophosphatidylcholine (18:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7200
+SLM:000055324	Lysophosphatidylcholine (18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7201 | 10778
+SLM:000055331	Lysophosphatidylcholine (20:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7205 | 7549
+SLM:000055331	Lysophosphatidylcholine (20:3)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7206
+SLM:000055331	Lysophosphatidylcholine (20:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7207
+SLM:000055332	Lysophosphatidylcholine (20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7202
+SLM:000055332	Lysophosphatidylcholine (20:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7203
+SLM:000055332	Lysophosphatidylcholine (20:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7204
+SLM:000055341	Lysophosphatidylcholine (22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7507 | 10389
+SLM:000055341	Lysophosphatidylcholine (22:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10390
+SLM:000055341	Lysophosphatidylcholine (22:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10391
+SLM:000055410	Lysophosphatidylethanolamine (16:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10875
+SLM:000055414	Lysophosphatidylethanolamine (18:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10878
+SLM:000055415	Lysophosphatidylethanolamine (18:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10877
+SLM:000055416	Lysophosphatidylethanolamine (18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10876
+SLM:000055478	Lysophosphatidylethanolamine (O-18:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10889
+SLM:000056194	Phosphatidate (O-34:0)	GO:0030496	midbody	9606	Homo sapiens	13911
+SLM:000056455	Phosphatidylcholine (26:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7550
+SLM:000056467	Phosphatidylcholine (28:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7551
+SLM:000056479	Phosphatidylcholine (30:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7541
+SLM:000056479	Phosphatidylcholine (30:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10729
+SLM:000056480	Phosphatidylcholine (30:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7543
+SLM:000056480	Phosphatidylcholine (30:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10728
+SLM:000056481	Phosphatidylcholine (30:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7604
+SLM:000056486	Phosphatidylcholine (31:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10731
+SLM:000056493	Phosphatidylcholine (32:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7153
+SLM:000056493	Phosphatidylcholine (32:0)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7146
+SLM:000056493	Phosphatidylcholine (32:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7162 | 10735
+SLM:000056494	Phosphatidylcholine (32:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7152 | 7552
+SLM:000056494	Phosphatidylcholine (32:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7145
+SLM:000056494	Phosphatidylcholine (32:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7161 | 10734
+SLM:000056495	Phosphatidylcholine (32:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10393
+SLM:000056495	Phosphatidylcholine (32:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10733
+SLM:000056500	Phosphatidylcholine (33:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7540
+SLM:000056501	Phosphatidylcholine (33:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10739
+SLM:000056502	Phosphatidylcholine (33:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10737
+SLM:000056504	Phosphatidylcholine (33:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7489
+SLM:000056507	Phosphatidylcholine (34:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7472
+SLM:000056508	Phosphatidylcholine (34:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7151 | 7536
+SLM:000056508	Phosphatidylcholine (34:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7150
+SLM:000056508	Phosphatidylcholine (34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7163 | 10742
+SLM:000056509	Phosphatidylcholine (34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7109 | 7149
+SLM:000056509	Phosphatidylcholine (34:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7148
+SLM:000056509	Phosphatidylcholine (34:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7147
+SLM:000056510	Phosphatidylcholine (34:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7511
+SLM:000056510	Phosphatidylcholine (34:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10741
+SLM:000056511	Phosphatidylcholine (34:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7553
+SLM:000056511	Phosphatidylcholine (34:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10740
+SLM:000056512	Phosphatidylcholine (34:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7554
+SLM:000056515	Phosphatidylcholine (35:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7537
+SLM:000056515	Phosphatidylcholine (35:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10744
+SLM:000056516	Phosphatidylcholine (35:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7538
+SLM:000056516	Phosphatidylcholine (35:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10743
+SLM:000056522	Phosphatidylcholine (36:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7173
+SLM:000056522	Phosphatidylcholine (36:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7174
+SLM:000056522	Phosphatidylcholine (36:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7175 | 10747
+SLM:000056523	Phosphatidylcholine (36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7110 | 7170
+SLM:000056523	Phosphatidylcholine (36:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7171 | 7515
+SLM:000056523	Phosphatidylcholine (36:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7172
+SLM:000056524	Phosphatidylcholine (36:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7167 | 7555
+SLM:000056524	Phosphatidylcholine (36:3)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7168
+SLM:000056524	Phosphatidylcholine (36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7169 | 10897
+SLM:000056525	Phosphatidylcholine (36:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7164 | 8381
+SLM:000056525	Phosphatidylcholine (36:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7165
+SLM:000056525	Phosphatidylcholine (36:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7166 | 10896
+SLM:000056526	Phosphatidylcholine (36:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7159 | 7504
+SLM:000056526	Phosphatidylcholine (36:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7158
+SLM:000056526	Phosphatidylcholine (36:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7160 | 10746
+SLM:000056527	Phosphatidylcholine (36:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7545
+SLM:000056527	Phosphatidylcholine (36:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10745
+SLM:000056528	Phosphatidylcholine (36:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7556
+SLM:000056532	Phosphatidylcholine (37:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10749
+SLM:000056534	Phosphatidylcholine (37:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10748
+SLM:000056538	Phosphatidylcholine (38:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7557
+SLM:000056539	Phosphatidylcholine (38:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10755
+SLM:000056540	Phosphatidylcholine (38:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7185 | 7499
+SLM:000056540	Phosphatidylcholine (38:3)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7186
+SLM:000056540	Phosphatidylcholine (38:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7187 | 10754
+SLM:000056541	Phosphatidylcholine (38:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7182 | 7532
+SLM:000056541	Phosphatidylcholine (38:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7183
+SLM:000056541	Phosphatidylcholine (38:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7184 | 10753
+SLM:000056542	Phosphatidylcholine (38:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7179
+SLM:000056542	Phosphatidylcholine (38:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7180
+SLM:000056542	Phosphatidylcholine (38:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7181 | 10752
+SLM:000056543	Phosphatidylcholine (38:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7176 | 7494
+SLM:000056543	Phosphatidylcholine (38:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7177
+SLM:000056543	Phosphatidylcholine (38:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7178 | 10751
+SLM:000056544	Phosphatidylcholine (38:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7518
+SLM:000056544	Phosphatidylcholine (38:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10750
+SLM:000056546	Phosphatidylcholine (38:9)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7558
+SLM:000056553	Phosphatidylcholine (39:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7527
+SLM:000056553	Phosphatidylcholine (39:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10756
+SLM:000056556	Phosphatidylcholine (40:10)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7559
+SLM:000056559	Phosphatidylcholine (40:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7509
+SLM:000056560	Phosphatidylcholine (40:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7560
+SLM:000056560	Phosphatidylcholine (40:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10761
+SLM:000056561	Phosphatidylcholine (40:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7188 | 7508
+SLM:000056561	Phosphatidylcholine (40:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7189
+SLM:000056561	Phosphatidylcholine (40:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7190 | 10760
+SLM:000056562	Phosphatidylcholine (40:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7486
+SLM:000056562	Phosphatidylcholine (40:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10759
+SLM:000056563	Phosphatidylcholine (40:8)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7544
+SLM:000056563	Phosphatidylcholine (40:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10758
+SLM:000056564	Phosphatidylcholine (40:9)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7561
+SLM:000056564	Phosphatidylcholine (40:9)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10757
+SLM:000056579	Phosphatidylcholine (42:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7562
+SLM:000056580	Phosphatidylcholine (42:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7563
+SLM:000056581	Phosphatidylcholine (42:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7564
+SLM:000056582	Phosphatidylcholine (42:8)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7565
+SLM:000056839	Phosphatidylcholine (O-32:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10732
+SLM:000056840	Phosphatidylcholine (O-32:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7510
+SLM:000056840	Phosphatidylcholine (O-32:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10730
+SLM:000056853	Phosphatidylcholine (O-34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10762
+SLM:000056854	Phosphatidylcholine (O-34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10738
+SLM:000056855	Phosphatidylcholine (O-34:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7491
+SLM:000056855	Phosphatidylcholine (O-34:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10736
+SLM:000056869	Phosphatidylcholine (O-36:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7474
+SLM:000056869	Phosphatidylcholine (O-36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10766
+SLM:000056870	Phosphatidylcholine (O-36:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7497
+SLM:000056870	Phosphatidylcholine (O-36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10765
+SLM:000056871	Phosphatidylcholine (O-36:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10764
+SLM:000056872	Phosphatidylcholine (O-36:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7475
+SLM:000056872	Phosphatidylcholine (O-36:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10763
+SLM:000056874	Phosphatidylcholine (O-36:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7566
+SLM:000056886	Phosphatidylcholine (O-38:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10771
+SLM:000056887	Phosphatidylcholine (O-38:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10770
+SLM:000056888	Phosphatidylcholine (O-38:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7517
+SLM:000056888	Phosphatidylcholine (O-38:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10769
+SLM:000056889	Phosphatidylcholine (O-38:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7567
+SLM:000056889	Phosphatidylcholine (O-38:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10768
+SLM:000056890	Phosphatidylcholine (O-38:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7534
+SLM:000056890	Phosphatidylcholine (O-38:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10767
+SLM:000056891	Phosphatidylcholine (O-38:8)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7568
+SLM:000056902	Phosphatidylcholine (O-40:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7569
+SLM:000056903	Phosphatidylcholine (O-40:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7512
+SLM:000056905	Phosphatidylcholine (O-40:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7529
+SLM:000056905	Phosphatidylcholine (O-40:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10774
+SLM:000056906	Phosphatidylcholine (O-40:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7570
+SLM:000056906	Phosphatidylcholine (O-40:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10773
+SLM:000056907	Phosphatidylcholine (O-40:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7505
+SLM:000056907	Phosphatidylcholine (O-40:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10772
+SLM:000056908	Phosphatidylcholine (O-40:8)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7571
+SLM:000056908	Phosphatidylcholine (O-40:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10899
+SLM:000056909	Phosphatidylcholine (O-40:9)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7572
+SLM:000056921	Phosphatidylcholine (O-42:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10775
+SLM:000056922	Phosphatidylcholine (O-42:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10776
+SLM:000057151	Phosphatidylethanolamine (32:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7573
+SLM:000057165	Phosphatidylethanolamine (34:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7574
+SLM:000057166	Phosphatidylethanolamine (34:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7212
+SLM:000057166	Phosphatidylethanolamine (34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7213 | 10856
+SLM:000057166	Phosphatidylethanolamine (34:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7214
+SLM:000057167	Phosphatidylethanolamine (34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7116 | 7209
+SLM:000057167	Phosphatidylethanolamine (34:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7210
+SLM:000057167	Phosphatidylethanolamine (34:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7211
+SLM:000057168	Phosphatidylethanolamine (34:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7575
+SLM:000057180	Phosphatidylethanolamine (36:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7224 | 7576
+SLM:000057180	Phosphatidylethanolamine (36:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7225 | 10865
+SLM:000057180	Phosphatidylethanolamine (36:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7226
+SLM:000057181	Phosphatidylethanolamine (36:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7221 | 7577
+SLM:000057181	Phosphatidylethanolamine (36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7222 | 10864
+SLM:000057181	Phosphatidylethanolamine (36:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7223
+SLM:000057182	Phosphatidylethanolamine (36:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7218
+SLM:000057182	Phosphatidylethanolamine (36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7219 | 10862
+SLM:000057182	Phosphatidylethanolamine (36:3)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7220
+SLM:000057183	Phosphatidylethanolamine (36:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7215
+SLM:000057183	Phosphatidylethanolamine (36:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7216 | 10860
+SLM:000057183	Phosphatidylethanolamine (36:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7217
+SLM:000057184	Phosphatidylethanolamine (36:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10859
+SLM:000057195	Phosphatidylethanolamine (38:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7578
+SLM:000057198	Phosphatidylethanolamine (38:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7237 | 7579
+SLM:000057198	Phosphatidylethanolamine (38:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7238 | 10870
+SLM:000057198	Phosphatidylethanolamine (38:3)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7239
+SLM:000057199	Phosphatidylethanolamine (38:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7233
+SLM:000057199	Phosphatidylethanolamine (38:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7235 | 10869
+SLM:000057199	Phosphatidylethanolamine (38:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7236
+SLM:000057200	Phosphatidylethanolamine (38:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7230 | 7580
+SLM:000057200	Phosphatidylethanolamine (38:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7231 | 10868
+SLM:000057200	Phosphatidylethanolamine (38:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7232
+SLM:000057201	Phosphatidylethanolamine (38:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7227
+SLM:000057201	Phosphatidylethanolamine (38:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7228 | 10867
+SLM:000057201	Phosphatidylethanolamine (38:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7229
+SLM:000057215	Phosphatidylethanolamine (40:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7581
+SLM:000057216	Phosphatidylethanolamine (40:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7582
+SLM:000057217	Phosphatidylethanolamine (40:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7249
+SLM:000057217	Phosphatidylethanolamine (40:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7250
+SLM:000057217	Phosphatidylethanolamine (40:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7251
+SLM:000057218	Phosphatidylethanolamine (40:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7246 | 7583
+SLM:000057218	Phosphatidylethanolamine (40:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7247 | 10874
+SLM:000057218	Phosphatidylethanolamine (40:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7248
+SLM:000057219	Phosphatidylethanolamine (40:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7243
+SLM:000057219	Phosphatidylethanolamine (40:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7244 | 10873
+SLM:000057219	Phosphatidylethanolamine (40:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7245
+SLM:000057220	Phosphatidylethanolamine (40:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7240
+SLM:000057220	Phosphatidylethanolamine (40:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7241 | 10872
+SLM:000057220	Phosphatidylethanolamine (40:7)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7242
+SLM:000057221	Phosphatidylethanolamine (40:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10871
+SLM:000057231	Phosphatidylethanolamine (42:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7584
+SLM:000057236	Phosphatidylethanolamine (42:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7585
+SLM:000057241	Phosphatidylethanolamine (42:9)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7586
+SLM:000057488	Phosphatidylethanolamine (O-30:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7603
+SLM:000057489	Phosphatidylethanolamine (O-30:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7587
+SLM:000057498	Phosphatidylethanolamine (O-32:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7588
+SLM:000057511	Phosphatidylethanolamine (O-34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10811
+SLM:000057512	Phosphatidylethanolamine (O-34:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7590
+SLM:000057512	Phosphatidylethanolamine (O-34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10810
+SLM:000057513	Phosphatidylethanolamine (O-34:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10809
+SLM:000057520	Phosphatidylethanolamine (O-35:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10812
+SLM:000057526	Phosphatidylethanolamine (O-36:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10818
+SLM:000057527	Phosphatidylethanolamine (O-36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10817
+SLM:000057528	Phosphatidylethanolamine (O-36:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7546
+SLM:000057528	Phosphatidylethanolamine (O-36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10816
+SLM:000057529	Phosphatidylethanolamine (O-36:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10815
+SLM:000057530	Phosphatidylethanolamine (O-36:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10814
+SLM:000057531	Phosphatidylethanolamine (O-36:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7591
+SLM:000057531	Phosphatidylethanolamine (O-36:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10813
+SLM:000057538	Phosphatidylethanolamine (O-37:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10821
+SLM:000057539	Phosphatidylethanolamine (O-37:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10820
+SLM:000057540	Phosphatidylethanolamine (O-37:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10819
+SLM:000057544	Phosphatidylethanolamine (O-38:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7592
+SLM:000057544	Phosphatidylethanolamine (O-38:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10827
+SLM:000057545	Phosphatidylethanolamine (O-38:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7593
+SLM:000057545	Phosphatidylethanolamine (O-38:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10826
+SLM:000057546	Phosphatidylethanolamine (O-38:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10825
+SLM:000057547	Phosphatidylethanolamine (O-38:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7533
+SLM:000057547	Phosphatidylethanolamine (O-38:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10824
+SLM:000057548	Phosphatidylethanolamine (O-38:7)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7535
+SLM:000057548	Phosphatidylethanolamine (O-38:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10823
+SLM:000057549	Phosphatidylethanolamine (O-38:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10822
+SLM:000057556	Phosphatidylethanolamine (O-39:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10828
+SLM:000057561	Phosphatidylethanolamine (O-40:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10836
+SLM:000057562	Phosphatidylethanolamine (O-40:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10834
+SLM:000057563	Phosphatidylethanolamine (O-40:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10833
+SLM:000057564	Phosphatidylethanolamine (O-40:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7594
+SLM:000057564	Phosphatidylethanolamine (O-40:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10832
+SLM:000057565	Phosphatidylethanolamine (O-40:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10830
+SLM:000057566	Phosphatidylethanolamine (O-40:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10829
+SLM:000057579	Phosphatidylethanolamine (O-42:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10842
+SLM:000057582	Phosphatidylethanolamine (O-42:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10840
+SLM:000057583	Phosphatidylethanolamine (O-42:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10838
+SLM:000057597	Phosphatidylethanolamine (O-44:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10850
+SLM:000057598	Phosphatidylethanolamine (O-44:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10848
+SLM:000057599	Phosphatidylethanolamine (O-44:7)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10846
+SLM:000057600	Phosphatidylethanolamine (O-44:8)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10844
+SLM:000057824	Phosphatidylglycerol (34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10892
+SLM:000057825	Phosphatidylglycerol (34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10891
+SLM:000057826	Phosphatidylglycerol (34:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10890
+SLM:000057838	Phosphatidylglycerol (36:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10895
+SLM:000057839	Phosphatidylglycerol (36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10894
+SLM:000057840	Phosphatidylglycerol (36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10893
+SLM:000058189	Phosphatidylinositol (32:0)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10780
+SLM:000058190	Phosphatidylinositol (32:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10779
+SLM:000058204	Phosphatidylinositol (34:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10782
+SLM:000058205	Phosphatidylinositol (34:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10781
+SLM:000058212	Phosphatidylinositol (35:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10783
+SLM:000058218	Phosphatidylinositol (36:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10798
+SLM:000058219	Phosphatidylinositol (36:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10797
+SLM:000058220	Phosphatidylinositol (36:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10796
+SLM:000058221	Phosphatidylinositol (36:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10784
+SLM:000058230	Phosphatidylinositol (37:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10785
+SLM:000058235	Phosphatidylinositol (38:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10808
+SLM:000058237	Phosphatidylinositol (38:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10801
+SLM:000058238	Phosphatidylinositol (38:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10800
+SLM:000058239	Phosphatidylinositol (38:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10799
+SLM:000058256	Phosphatidylinositol (40:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10803
+SLM:000058257	Phosphatidylinositol (40:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10802
+SLM:000058263	Phosphatidylinositol (41:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10806
+SLM:000058264	Phosphatidylinositol (41:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10805
+SLM:000058266	Phosphatidylinositol (41:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10804
+SLM:000058285	Phosphatidylinositol (43:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10807
+SLM:000058861	Phosphatidylserine (34:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7595
+SLM:000058893	Phosphatidylserine (38:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7596
+SLM:000058895	Phosphatidylserine (38:4)	GO:0030496	midbody	9606	Homo sapiens	7106
+SLM:000058909	Phosphatidylserine (40:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7597
+SLM:000058911	Phosphatidylserine (40:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7598
+SLM:000058912	Phosphatidylserine (40:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7599
+SLM:000058913	Phosphatidylserine (40:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7600
+SLM:000058914	Phosphatidylserine (40:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7601
+SLM:000059761	Phosphatidate (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11296
+SLM:000059765	Phosphatidate (16:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11298
+SLM:000059814	Phosphatidate (16:1_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11295
+SLM:000059818	Phosphatidate (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11297
+SLM:000063445	Phosphatidylcholine (12:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11306
+SLM:000063560	Phosphatidylcholine (14:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11307
+SLM:000063565	Phosphatidylcholine (14:0_18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7539
+SLM:000063725	Phosphatidylcholine (16:0_16:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8388
+SLM:000063725	Phosphatidylcholine (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11309
+SLM:000063729	Phosphatidylcholine (16:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11311
+SLM:000063730	Phosphatidylcholine (16:0_18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7524
+SLM:000063737	Phosphatidylcholine (16:0_20:3)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7141
+SLM:000063737	Phosphatidylcholine (16:0_20:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7470
+SLM:000063739	Phosphatidylcholine (16:0_20:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7506
+SLM:000063747	Phosphatidylcholine (16:0_22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10392
+SLM:000063782	Phosphatidylcholine (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11310
+SLM:000063935	Phosphatidylcholine (18:0_18:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7513
+SLM:000063935	Phosphatidylcholine (18:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11313
+SLM:000063936	Phosphatidylcholine (18:0_18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7531
+SLM:000063943	Phosphatidylcholine (18:0_20:3)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7526
+SLM:000063944	Phosphatidylcholine (18:0_20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7530
+SLM:000063945	Phosphatidylcholine (18:0_20:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7525
+SLM:000063952	Phosphatidylcholine (18:0_22:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7482
+SLM:000063985	Phosphatidylcholine (18:1_18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7142
+SLM:000064041	Phosphatidylcholine (18:2_20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7480
+SLM:000065933	Phosphatidylcholine (O-16:0_20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7471
+SLM:000065942	Phosphatidylcholine (O-16:0_22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8385
+SLM:000067689	Phosphatidylethanolamine (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11304
+SLM:000067746	Phosphatidylethanolamine (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11305
+SLM:000069954	Phosphatidylethanolamine (O-16:1_18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8405
+SLM:000069962	Phosphatidylethanolamine (O-16:1_20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8403
+SLM:000070287	Phosphatidylethanolamine (O-18:2_20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	8404
+SLM:000073457	Phosphatidylinositol (10:0_16:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11314
+SLM:000073516	Phosphatidylinositol (12:0_16:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11315
+SLM:000073520	Phosphatidylinositol (12:0_18:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11318
+SLM:000073631	Phosphatidylinositol (14:0_16:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11319
+SLM:000073632	Phosphatidylinositol (14:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11317
+SLM:000073636	Phosphatidylinositol (14:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11323
+SLM:000073687	Phosphatidylinositol (14:1_16:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11316
+SLM:000073797	Phosphatidylinositol (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11322
+SLM:000073800	Phosphatidylinositol (16:0_18:0)	GO:0030496	midbody	9606	Homo sapiens	13912
+SLM:000073801	Phosphatidylinositol (16:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11327
+SLM:000073853	Phosphatidylinositol (16:1_18:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11328
+SLM:000073854	Phosphatidylinositol (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11326
+SLM:000074007	Phosphatidylinositol (18:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11331
+SLM:000074016	Phosphatidylinositol (18:0_20:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7143
+SLM:000077761	Phosphatidylserine (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11300
+SLM:000077765	Phosphatidylserine (16:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11302
+SLM:000077818	Phosphatidylserine (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11301
+SLM:000081839	Phosphatidate (16:0/16:0)	GO:0030496	midbody	9606	Homo sapiens	13910
+SLM:000088143	Phosphatidylcholine (16:0/16:0)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7528
+SLM:000088209	Phosphatidylcholine (16:1/16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11308
+SLM:000088473	Phosphatidylcholine (18:1/18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11312
+SLM:000088539	Phosphatidylcholine (18:2/18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7485
+SLM:000094513	Phosphatidylethanolamine (16:1/16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11303
+SLM:000099457	Phosphatidylethanolamine (P-16:0/18:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7448
+SLM:000099457	Phosphatidylethanolamine (P-16:0/18:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7449
+SLM:000099457	Phosphatidylethanolamine (P-16:0/18:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7450
+SLM:000099458	Phosphatidylethanolamine (P-16:0/18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7445
+SLM:000099458	Phosphatidylethanolamine (P-16:0/18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7446
+SLM:000099458	Phosphatidylethanolamine (P-16:0/18:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7447
+SLM:000099466	Phosphatidylethanolamine (P-16:0/20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7454
+SLM:000099466	Phosphatidylethanolamine (P-16:0/20:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7455
+SLM:000099466	Phosphatidylethanolamine (P-16:0/20:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7456
+SLM:000099467	Phosphatidylethanolamine (P-16:0/20:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7451
+SLM:000099467	Phosphatidylethanolamine (P-16:0/20:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7452
+SLM:000099467	Phosphatidylethanolamine (P-16:0/20:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7453
+SLM:000099474	Phosphatidylethanolamine (P-16:0/22:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7466
+SLM:000099474	Phosphatidylethanolamine (P-16:0/22:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7467
+SLM:000099474	Phosphatidylethanolamine (P-16:0/22:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7468
+SLM:000099475	Phosphatidylethanolamine (P-16:0/22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	7463
+SLM:000099475	Phosphatidylethanolamine (P-16:0/22:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	7464
+SLM:000099475	Phosphatidylethanolamine (P-16:0/22:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	7465
+SLM:000099588	Phosphatidylethanolamine (P-18:0/18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10409
+SLM:000099588	Phosphatidylethanolamine (P-18:0/18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10410
+SLM:000099588	Phosphatidylethanolamine (P-18:0/18:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10411
+SLM:000099596	Phosphatidylethanolamine (P-18:0/20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10415
+SLM:000099596	Phosphatidylethanolamine (P-18:0/20:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10416
+SLM:000099596	Phosphatidylethanolamine (P-18:0/20:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10417
+SLM:000099597	Phosphatidylethanolamine (P-18:0/20:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10412
+SLM:000099597	Phosphatidylethanolamine (P-18:0/20:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10413
+SLM:000099597	Phosphatidylethanolamine (P-18:0/20:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10414
+SLM:000099604	Phosphatidylethanolamine (P-18:0/22:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10421
+SLM:000099604	Phosphatidylethanolamine (P-18:0/22:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10422
+SLM:000099604	Phosphatidylethanolamine (P-18:0/22:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10423
+SLM:000099605	Phosphatidylethanolamine (P-18:0/22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10418
+SLM:000099605	Phosphatidylethanolamine (P-18:0/22:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10419
+SLM:000099605	Phosphatidylethanolamine (P-18:0/22:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10420
+SLM:000099652	Phosphatidylethanolamine (P-18:1/18:1)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10397
+SLM:000099652	Phosphatidylethanolamine (P-18:1/18:1)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10398
+SLM:000099652	Phosphatidylethanolamine (P-18:1/18:1)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10399
+SLM:000099653	Phosphatidylethanolamine (P-18:1/18:2)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10394
+SLM:000099653	Phosphatidylethanolamine (P-18:1/18:2)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10395
+SLM:000099653	Phosphatidylethanolamine (P-18:1/18:2)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10396
+SLM:000099661	Phosphatidylethanolamine (P-18:1/20:4)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10403
+SLM:000099661	Phosphatidylethanolamine (P-18:1/20:4)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10404
+SLM:000099661	Phosphatidylethanolamine (P-18:1/20:4)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10405
+SLM:000099662	Phosphatidylethanolamine (P-18:1/20:5)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10400
+SLM:000099662	Phosphatidylethanolamine (P-18:1/20:5)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10401
+SLM:000099662	Phosphatidylethanolamine (P-18:1/20:5)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10402
+SLM:000099670	Phosphatidylethanolamine (P-18:1/22:6)	GO:0034364	high-density lipoprotein particle	9606	Homo sapiens	10406
+SLM:000099670	Phosphatidylethanolamine (P-18:1/22:6)	GO:0034362	low-density lipoprotein particle	9606	Homo sapiens	10407
+SLM:000099670	Phosphatidylethanolamine (P-18:1/22:6)	GO:0034361	very-low-density lipoprotein particle	9606	Homo sapiens	10408
+SLM:000104975	Phosphatidylinositol (16:0/16:0)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11324
+SLM:000105041	Phosphatidylinositol (16:1/16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11321
+SLM:000308245	Triacylglycerol (46:2)	GO:0030496	midbody	9606	Homo sapiens	13909
+SLM:000308858	Diacylglycerol (16:0_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11293
+SLM:000308862	Diacylglycerol (16:0_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11299
+SLM:000308890	Diacylglycerol (16:1_16:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11292
+SLM:000308894	Diacylglycerol (16:1_18:1)	GO:0012510	trans-Golgi network transport vesicle membrane	559292	Saccharomyces cerevisiae S288c	11294
+SLM:000392067	Ceramide (d18:0/16:0)	GO:0030496	midbody	9606	Homo sapiens	13902
+SLM:000392071	Ceramide (d18:0/18:0)	GO:0030496	midbody	9606	Homo sapiens	13906
+SLM:000392078	Ceramide (d18:0/20:0)	GO:0030496	midbody	9606	Homo sapiens	13905
+SLM:000392085	Ceramide (d18:0/22:0)	GO:0030496	midbody	9606	Homo sapiens	13904
+SLM:000392092	Ceramide (d18:0/24:0)	GO:0030496	midbody	9606	Homo sapiens	13903
+SLM:000392149	Ceramide (d18:1/22:0)	GO:0030496	midbody	9606	Homo sapiens	13907
+SLM:000392156	Ceramide (d18:1/24:0)	GO:0030496	midbody	9606	Homo sapiens	13908
+SLM:000393859	Hexosyl ceramide (d18:1/16:0)	GO:0030496	midbody	9606	Homo sapiens	13897
+SLM:000393884	Hexosyl ceramide (d18:1/24:0)	GO:0030496	midbody	9606	Homo sapiens	13898
