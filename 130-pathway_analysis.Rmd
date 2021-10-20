@@ -565,12 +565,12 @@ worksheet.sample <- 'sample.csv'
 worksheet.var <- 'var.csv'
 
 # perform hypothesis test using original data
-file.data <- '/Users/leump/Desktop/data.csv'
-file.sample <- '/Users/leump/Desktop/sample.csv'
-file.var <- '/Users/leump/Desktop/var.csv'
+file.data <- '/Users/leump/Desktop/2020-014-A-01/code/data/20211009/data-DM.csv'
+file.sample <- '/Users/leump/Desktop/2020-014-A-01/code/data/20211009/sample2-DM.csv'
+file.var <- '/Users/leump/Desktop/2020-014-A-01/code/data/20211009/var.csv'
 
 ## test type
-test <- c('Dunn', 'Games-Howell', 'T', 'Mann-Whitney-U',"Wilcox")[3]
+test <- c('Dunn', 'Games-Howell', 'T', 'Mann-Whitney-U',"Wilcox")[2]
 test.paired <- FALSE
 ## if test.paired is TRUE, Pair column must be present in sample.csv
 ```
@@ -830,11 +830,10 @@ if (file.exists(file.ht)) {
 
 ```{r, results='asis', include=T, fig.width=8, fig.height=6}
 if (!file.exists(file.path(output.dir, 'metabolite_list.csv'))) {
-  write.csv(data.frame(d.var[, c('Metabolite Name', 'Class', 'HMDB ID', 'Match', 'KEGG')], ht.res, check.names = F
-                       , fileEncoding = 'UTF-8-BOM'
-                       ),
+  write.csv(data.frame(d.var[, c('Metabolite Name', 'Class', 'HMDB ID', 'Match', 'KEGG')], ht.res, check.names = F),
             file.path(output.dir, 'metabolite_list.csv'),
-            row.names = F)
+            row.names = F,
+            fileEncoding = 'UTF-8-BOM')
 }
 
 test.name <- test
